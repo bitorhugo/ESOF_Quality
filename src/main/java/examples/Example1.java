@@ -17,7 +17,7 @@ public class Example1 {
     }
 
     private static void incorrectAssignmentInIfCondition() {
-        boolean value = false;
+        boolean value = true;
         if (value = true) {
             //do Something
         } else {
